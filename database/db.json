@@ -15,8 +15,8 @@
       "id": "2"
     },
     {
-      "title": "shoesh",
-      "price": 23,
+      "title": "t",
+      "price": "2300",
       "description": "good",
       "category": "beauty",
       "id": "3"
@@ -34,13 +34,6 @@
       "price": "611",
       "description": "Nesciunt commodi no",
       "category": "Sed sit pariatur V"
-    },
-    {
-      "id": "B8aRSgJpGUqX6agecJ0Lu",
-      "title": "Dolor sed earum cons",
-      "price": "655",
-      "description": "Elit ab officia con",
-      "category": "Occaecat in nulla fu"
     }
   ]
 }

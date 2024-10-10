@@ -2,15 +2,17 @@ import ProductFrom from "./features/products/ProductFrom"
 import ProductView from "./features/products/ProductView"
 
 
+
 function App() {
   
 
   return (
     <>
+      <div className="">
       <div>
       <ProductFrom></ProductFrom>
-        <ProductView></ProductView>
-     
+      </div>
+      <ProductView></ProductView>
       </div>
     </>
   )

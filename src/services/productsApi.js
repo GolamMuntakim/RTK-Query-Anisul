@@ -33,9 +33,10 @@ export const productsApi = createApi({
                 method : 'PUT',
                 body : updatedProduct
             }),
-            invalidatesTags : [{type : "Product", id: "LIST"  }]
+            invalidatesTags : (result, error, {id})=> [{type : "Product", 
+                id  }]
         }),
     })
 })
 // useGetProductsQuery
-export const {useGetProductsQuery, useDeleteProductsMutation, useAddProductsMutation} = productsApi;
+export const {useGetProductsQuery, useDeleteProductsMutation, useAddProductsMutation, useUpdateProductsMutation} = productsApi;
