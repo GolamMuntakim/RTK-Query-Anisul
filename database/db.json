@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "title": "shirty",
+      "price": 23,
+      "description": "good",
+      "category": "beautyy",
+      "id": "1"
+    },
+    {
+      "title": "panty",
+      "price": 23,
+      "description": "good",
+      "category": "beautyy",
+      "id": "2"
+    },
+    {
+      "title": "shoesh",
+      "price": 23,
+      "description": "good",
+      "category": "beauty",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "title": "watch",
+      "description": "good",
+      "price": 23,
+      "category": "beauty"
+    },
+    {
+      "id": "xobF7cLd0wiXfAWTb8MKd",
+      "title": "Ex esse ipsum et cu",
+      "price": "611",
+      "description": "Nesciunt commodi no",
+      "category": "Sed sit pariatur V"
+    },
+    {
+      "id": "1fxqmvD3cpD8lAsMoI0cz",
+      "title": "Laborum Maxime aut ",
+      "price": "935",
+      "description": "Minus vel doloremque",
+      "category": "Dignissimos repellen"
+    }
+  ]
+}
